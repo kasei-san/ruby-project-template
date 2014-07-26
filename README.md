@@ -1,5 +1,15 @@
 # Ruby Project Template
 
+
+## initialize
+
+```
+$ wget https://github.com/kasei-san/ruby-project-template/archive/master.zip
+$ unzip master.zip
+$ mv ruby-project-template-master/ #{project name}
+$ cd #{project name}
+```
+
 ## Guard
 
 ```
